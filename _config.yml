@@ -1,0 +1,14 @@
+theme: jekyll-theme-leap-day
+title: [Python]
+description: [learn with us]
+show_description: true
+show_languages: true
+show_downloads: false
+show_github_repository: false
+
+is_theme_by: false
+github:
+  martianvenusian_url: https://martianvenusian.github.io
+  python: https://martianvenusian.github.io/python
+  python_uz: https://martianvenusian.github.io/python_uz
+
